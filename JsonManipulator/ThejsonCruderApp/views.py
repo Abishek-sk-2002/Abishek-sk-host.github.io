@@ -54,7 +54,8 @@ def ApiView(request):
 def RetrieveUserDataUsingSerializers(request):
     # if request.method == 'GET':
     result_data = listUserData()
+    print(result_data)
     data_list = [{'user_id': item[0], 'user_name': item[1], 'email_id': item[2]} for item in result_data]
-    serializer = DataSerializer(data_list )
+    serializer = DataSerializer(data_list,many= True)
     return Response(serializer.data)
 
