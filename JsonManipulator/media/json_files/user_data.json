@@ -1,0 +1,327 @@
+[
+  {
+    "Accounts": [
+      {
+        "agent_name": "0018L00000L3GVXQA3",
+        "corporate_name": "GRM Test Corporation Parent with Subsidiaries",
+        "corporate_type_id": "Corporate",
+        "pcc_code": 99587571,
+        "office_number": "111-111-1111",
+        "customer_category_id": 1,
+        "time_zone_key": "America/Chicago",
+        "corporate_address": "123 Test Street,Test City, TX 75001",
+        "pos_code": "DAL",
+        "corporate_status": "Y"
+      },
+      {
+        "agent_name": "0018L00000L3M3sQAF",
+        "corporate_name": "GRM Test Corporation Subsidiary",
+        "corporate_type_id": "Corporate",
+        "pcc_code": 99587573,
+        "office_number": "111-111-1112",
+        "customer_category_id": 1,
+        "time_zone_key": "America/Chicago",
+        "corporate_address": "345 Test Street,Test City 2, CA 92601",
+        "pos_code": "DAL",
+        "corporate_status": "Y"
+      },
+      {
+        "agent_name": "0018L00000L3J65QAF",
+        "corporate_name": "GRM Test Corporation No Subsidiaries",
+        "corporate_type_id": "Corporate",
+        "pcc_code": 99587572,
+        "office_number": "111-111-2111",
+        "customer_category_id": 1,
+        "time_zone_key": "America/Chicago",
+        "corporate_address": "789 Test Street,Test City 3, AL 30153",
+        "pos_code": "DAL",
+        "corporate_status": "Y"
+      },
+      {
+        "agent_name": "0018L00000L3QubQAF",
+        "corporate_name": "GRM Test Travel Agency",
+        "corporate_type_id": "Travel Agency",
+        "iata_code": 5892961,
+        "office_number": "222-222-1111",
+        "customer_category_id": 1,
+        "time_zone_key": "America/Chicago",
+        "corporate_address": "1234 Test Street,Test City 5, TX 75001",
+        "pos_code": "DAL",
+        "corporate_status": "Y"
+      },
+      {
+        "agent_name": "0018L00000L3S6TQAV",
+        "corporate_name": "GRM Test Travel Agency Subsidiary",
+        "corporate_type_id": "Travel Agency",
+        "iata_code": 5892962,
+        "office_number": "222-222-1112",
+        "customer_category_id": 0,
+        "time_zone_key": "America/Chicago",
+        "corporate_address": "5678 Test City,Test City 6, CA 92061",
+        "pos_code": "DAL",
+        "corporate_status": "Y"
+      },
+      {
+        "agent_name": "0018L00000L3T0WQAV",
+        "corporate_name": "GRM Test Travel Agency No Subsidiary",
+        "corporate_type_id": "Travel Agency",
+        "iata_code": 5892981,
+        "office_number": "222-222-2111",
+        "customer_category_id": 0,
+        "time_zone_key": "America/Chicago",
+        "corporate_address": "9876 Test Street,Test City 9, AL 35013",
+        "pos_code": "DAL",
+        "corporate_status": "Y"
+      }
+    ],
+    "Contacts": [
+      {
+        "confirm_code": "0038L00000Ek5iyQAB",
+        "account_id": "0018L00000L3GVXQA3",
+        "user_name": "0058L000001UCcCQAW",
+        "title": "Mr",
+        "first_name": "CTM Par",
+        "last_name": "Full GRM Access",
+        "email_id": "muhammad.salman.one@wnco.com",
+        "user_address": "4016 Doane Street, Phoenix, CA 94538",
+        "country_code": "US",
+        "city_id": "Phoenix",
+        "user_zip_code": 94538,
+        "phone_number": "555-000-48027",
+        "approved_status": "Y"
+      },
+      {
+        "confirm_code": "0038L00000Ek5qrQAB",
+        "account_id": "0018L00000L3GVXQA3",
+        "user_name": "0058L000001UDISQA4",
+        "title": "Mr",
+        "first_name": "CTM Par",
+        "last_name": "Full No GRM Access",
+        "email_id": "muhammad.salman.two@wnco.com",
+        "user_address": "4016 Doane Street, Phoenix, CA 94538",
+        "country_code": "US",
+        "city_id": "Phoenix",
+        "user_zip_code": 94538,
+        "phone_number": "555-000-48027",
+        "approved_status": "Y"
+      },
+      {
+        "confirm_code": "0038L00000Ek5rkQAB",
+        "account_id": "0018L00000L3M3sQAF",
+        "user_name": "0058L000001UDIXQA4",
+        "title": "Mr",
+        "first_name": "CTM Sub",
+        "last_name": "Full GRM Access",
+        "email_id": "muhammad.salman.three@wnco.com",
+        "user_address": "4016 Doane Street, Phoenix, CA 94538",
+        "country_code": "US",
+        "city_id": "Phoenix",
+        "user_zip_code": 94538,
+        "phone_number": "555-000-48027",
+        "approved_status": "Y"
+      },
+      {
+        "confirm_code": "0038L00000Ek5uFQAR",
+        "account_id": "0018L00000L3M3sQAF",
+        "user_name": "0058L000001UDIcQAO",
+        "title": "Mr",
+        "first_name": "CTM Sub",
+        "last_name": "Limited GRM Access",
+        "email_id": "muhammad.salman.four@wnco.com",
+        "user_address": "4016 Doane Street, Phoenix, CA 94538",
+        "country_code": "US",
+        "city_id": "Phoenix",
+        "user_zip_code": 94538,
+        "phone_number": "555-000-48027",
+        "approved_status": "Y"
+      },
+      {
+        "confirm_code": "0038L00000Ek5vDQAR",
+        "account_id": "0018L00000L3QubQAF",
+        "user_name": "0058L000001UCcHQAW",
+        "title": "Mr",
+        "first_name": "TMC Par",
+        "last_name": "Full GRM Access",
+        "email_id": "muhammad.salman.five@wnco.com",
+        "user_address": "4016 Doane Street, Phoenix, CA 94538",
+        "country_code": "US",
+        "city_id": "Phoenix",
+        "user_zip_code": 94538,
+        "phone_number": "555-000-48027",
+        "approved_status": "Y"
+      },
+      {
+        "confirm_code": "0038L00000Ek624QAB",
+        "account_id": "0018L00000L3S6TQAV",
+        "user_name": "0058L000001UDIhQAO",
+        "title": "Mr",
+        "first_name": "TMC Sub",
+        "last_name": "Limited GRM Access",
+        "email_id": "muhammad.salman.six@wnco.com",
+        "user_address": "4016 Doane Street, Phoenix, CA 94538",
+        "country_code": "US",
+        "city_id": "Phoenix",
+        "user_zip_code": 94538,
+        "phone_number": "555-000-48027",
+        "approved_status": "Y"
+      },
+      {
+        "confirm_code": "0038L00000Ek64KQAR",
+        "account_id": "0018L00000L3S6TQAV",
+        "user_name": "0058L000001UDImQAO",
+        "title": "Mr",
+        "first_name": "TMC Sub",
+        "last_name": "Limited No GRM Access",
+        "email_id": "muhammad.salman.seven@wnco.com",
+        "user_address": "4016 Doane Street, Phoenix, CA 94538",
+        "country_code": "US",
+        "city_id": "Phoenix",
+        "user_zip_code": 94538,
+        "phone_number": "555-000-48027",
+        "approved_status": "Y"
+      },
+      {
+        "confirm_code": "0038L00000EkkbsQAB",
+        "account_id": "0018L00000L3M3sQAF",
+        "title": "Mr",
+        "first_name": "CTM Sub",
+        "last_name": "GRM Only Contact No User",
+        "email_id": "muhammad.salman.eight@wnco.com",
+        "user_address": "4016 Doane Street, Phoenix, CA 94538",
+        "country_code": "US",
+        "city_id": "Phoenix",
+        "user_zip_code": 94538,
+        "phone_number": "555-000-48027",
+        "approved_status": "Y"
+      },
+      {
+        "confirm_code": "0038L00000EkkYuQAJ",
+        "account_id": "0018L00000L3GVXQA3",
+        "title": "Mr",
+        "first_name": "CTM Par",
+        "last_name": "GRM Only Contact No User",
+        "email_id": "muhammad.salman.nine@wnco.com",
+        "user_address": "4016 Doane Street, Phoenix, CA 94538",
+        "country_code": "US",
+        "city_id": "Phoenix",
+        "user_zip_code": 94538,
+        "phone_number": "555-000-48027",
+        "approved_status": "Y"
+      }
+    ],
+    "Relations": [
+      {
+        "reference_id": "07k8L00000AAQkvQAH",
+        "user_id": "0038L00000Ek5iyQAB",
+        "corporate_id": "0018L00000L3GVXQA3",
+        "is_direct": 1,
+        "active_status": "Y"
+      },
+      {
+        "reference_id": "07k8L00000AAQl9QAH",
+        "user_id": "0038L00000Ek5qrQAB",
+        "corporate_id": "0018L00000L3GVXQA3",
+        "is_direct": 1,
+        "active_status": "N"
+      },
+      {
+        "reference_id": "07k8L00000AAQmMQAX",
+        "user_id": "0038L00000Ek5rkQAB",
+        "corporate_id": "0018L00000L3GVXQA3",
+        "is_direct": 0,
+        "active_status": "Y"
+      },
+      {
+        "reference_id": "07k8L00000AAQmlQAH",
+        "user_id": "0038L00000Ek5vDQAR",
+        "corporate_id": "0018L00000L3GVXQA3",
+        "is_direct": 0,
+        "active_status": "Y"
+      },
+      {
+        "reference_id": "07k8L00000AAQnUQAX",
+        "user_id": "0038L00000Ek64KQAR",
+        "corporate_id": "0018L00000L3GVXQA3",
+        "is_direct": 0,
+        "active_status": "N"
+      },
+      {
+        "reference_id": "07k8L00000AAQlOQAX",
+        "user_id": "0038L00000Ek5rkQAB",
+        "corporate_id": "0018L00000L3M3sQAF",
+        "is_direct": 1,
+        "active_status": "Y"
+      },
+      {
+        "reference_id": "07k8L00000AAQmNQAX",
+        "user_id": "0038L00000Ek5uFQAR",
+        "corporate_id": "0018L00000L3M3sQAF",
+        "is_direct": 1,
+        "active_status": "Y"
+      },
+      {
+        "reference_id": "07k8L00000AAQmWQAX",
+        "user_id": "0038L00000Ek5iyQAB",
+        "corporate_id": "0018L00000L3M3sQAF",
+        "is_direct": 0,
+        "active_status": "Y"
+      },
+      {
+        "reference_id": "07k8L00000AAQnFQAX",
+        "user_id": "0038L00000Ek624QAB",
+        "corporate_id": "0018L00000L3M3sQAF",
+        "is_direct": 0,
+        "active_status": "Y"
+      },
+      {
+        "reference_id": "07k8L00000AAQnGQAX",
+        "user_id": "0038L00000Ek5vDQAR",
+        "corporate_id": "0018L00000L3M3sQAF",
+        "is_direct": 0,
+        "active_status": "Y"
+      },
+      {
+        "reference_id": "07k8L00000AAQmbQAH",
+        "user_id": "0038L00000Ek5vDQAR",
+        "corporate_id": "0018L00000L3QubQAF",
+        "is_direct": 1,
+        "active_status": "Y"
+      },
+      {
+        "reference_id": "07k8L00000AAQnAQAX",
+        "user_id": "0038L00000Ek624QAB",
+        "corporate_id": "0018L00000L3QubQAF",
+        "is_direct": 0,
+        "active_status": "Y"
+      },
+      {
+        "reference_id": "07k8L00000AAQnPQAX",
+        "user_id": "0038L00000Ek64KQAR",
+        "corporate_id": "0018L00000L3QubQAF",
+        "is_direct": 0,
+        "active_status": "N"
+      },
+      {
+        "reference_id": "07k8L00000AAQn0QAH",
+        "user_id": "0038L00000Ek624QAB",
+        "corporate_id": "0018L00000L3S6TQAV",
+        "is_direct": 1,
+        "active_status": "Y"
+      },
+      {
+        "reference_id": "07k8L00000AAQn5QAH",
+        "user_id": "0038L00000Ek5vDQAR",
+        "corporate_id": "0018L00000L3S6TQAV",
+        "is_direct": 0,
+        "active_status": "Y"
+      },
+      {
+        "reference_id": "07k8L00000AAQnKQAX",
+        "user_id": "0038L00000Ek64KQAR",
+        "corporate_id": "0018L00000L3S6TQAV",
+        "is_direct": 1,
+        "active_status": "N"
+      }
+    ]
+  }
+]
